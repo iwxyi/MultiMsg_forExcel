@@ -17,14 +17,14 @@
 
 请勿联系开发者，因为他在测试群发时一不小心就欠下一套房子跑路了。
 
-![4](README.assets/1.png)
+![1](README.assets/1.png)
 
-![4](README.assets/2.png)
+![2](README.assets/2.png)
 
-![5](README.assets/3.png)
+![3](README.assets/3.png)
 
-![6](README.assets/4.png)
+![4](README.assets/4.png)
 
-![1](README.assets/5.png)
+![5](README.assets/5.png)
 
-![3](README.assets/6.png)
+![6](README.assets/6.png)
